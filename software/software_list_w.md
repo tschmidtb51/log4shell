@@ -10,11 +10,11 @@
 |WAGO|Smart Script|4.2.x < 4.8.1.3|Not vuln|Fix| | | |[WAGO Website](https://www.wago.com/de/automatisierungstechnik/psirt#log4j)|
 |Wallarm|All| | | | | | |[Lab Mitigation Update](https://lab.wallarm.com/cve-2021-44228-mitigation-update/)|
 |Wasp Barcode technologies|All| | | | | | |[Waspbarcode Assetcloud Inventorycloud](https://support.waspbarcode.com/kb/articles/assetcloud-inventorycloud-are-they-affected-by-the-java-exploit-log4j-no)|
-|WatchGuard|Secplicity| | | | | | |[Secplicity Critical RCE](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/)|
+|WatchGuard|Secplicity| |  | | | |[Secplicity Critical RCE](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/)|
 |Western Digital|All| | | | | | |[Westerndigital Product Security](https://www.westerndigital.com/support/product-security/wdc-21016-apache-log4j-2-remote-code-execution-vulnerability-analysis)|
 |WindRiver|All| | | | | | |[Windriver Security Notice](https://support2.windriver.com/index.php?page=security-notices&amp;on=view&amp;id=7191)|
 |Wistia|All| | | | | | |[Wistia Incidents](https://status.wistia.com/incidents/jtg0dfl5l224)|
-|Worksphere|All| | | | | | |[Workspace Security Update](https://www.worksphere.com/product/security-update-on-log4j-cve-2021-44228)|
+|Worksphere|All| |  | | | |[Workspace Security Update](https://www.worksphere.com/product/security-update-on-log4j-cve-2021-44228)|
 |Watcher|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://twitter.com/felix_hrn/status/1470387338001977344)|
 |WatchGuard|AuthPoint|Cloud|Not vuln|Fix| | |See link|[source](https://techsearch.watchguard.com/KB?type=Security%20Issues&amp;SFDCID=kA16S000000SNnuSAG&amp;lang=en_US)|
 |WatchGuard|Dimension|-|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/)|
