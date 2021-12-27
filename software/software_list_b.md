@@ -7,15 +7,15 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
-|B&R Industrial Automation|APROL| |Not vuln|Not vuln|Not vuln|Not vuln| |[B&amp;R Statement](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf)|
-|BBraun|APEX® Compounder| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
+|B&R Industrial Automation|APROL| |Not vuln|Not vuln|Not vuln|Not vuln| |[B&amp;R Statement](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf)
+|BBraun|APEX® Compounder| |Not vuln|Not vuln|Not vuln|Not Vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
 |BBraun|DoseTrac® Server, DoseLink™ Server, and Space® Online Suite Server software| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
-|BBraun|Outlook® Safety Infusion System Pump family| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
-|BBraun|Pinnacle® Compounder| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
+|BBraun|Outlook® Safety Infusion System Pump family| |Not vuln|Not vuln|Not vuln|Not vuln| ||[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
+|BBraun|Pinnacle® Compounder| |Not vuln|Not vuln|Not vuln|Investigate| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
 |BBraun|Pump, SpaceStation, and Space® Wireless Battery)| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
 |BBraun|Space® Infusion Pump family (Infusomat® Space® Infusion Pump, Perfusor® Space® Infusion| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
-|BD|Arctic Sun™ Analytics| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|Diabetes Care App Cloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Arctic Sun™ Analytics| |Not vuln|Not vuln|Not vuln|x| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Diabetes Care App Cloud| |Vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|HealthSight™ Clinical Advisor| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|HealthSight™ Data Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|HealthSight™ Diversion Management| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
